@@ -288,10 +288,11 @@ nav {
 }
 footer {
   position: relative;
-  max-width: 900px;
-  margin: auto;
 }
 .footer-nav {
+  width: 70%;
+  max-width: 900px;
+  margin: auto;
   display: flex;
   justify-content: space-between;
   align-items: center;
