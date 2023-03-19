@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap");
+
 * {
   margin: 0;
   padding: 0;
@@ -8,6 +10,7 @@ body {
   background-color: #0f0f10;
   margin: auto;
   font-size: 16px;
+  font-family: "Poppins", sans-serif;
 }
 .spacing {
   margin-bottom: 5rem;
@@ -183,7 +186,7 @@ main {
 .btn-buy-now {
   width: 200px;
 }
-.buynow-section .left-col {style
+.buynow-section .left-col {
   flex: 1;
   display: flex;
   flex-direction: column;
@@ -315,6 +318,7 @@ footer .nav-link {
   border-radius: 0.5rem;
   cursor: pointer;
 }
-.go-to-top{
+.go-to-top {
   position: absolute;
-left:90%}
+  left: 90%;
+}
