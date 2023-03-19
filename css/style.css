@@ -316,5 +316,5 @@ footer .nav-link {
   cursor: pointer;
 }
 .go-to-top{
-  position: relative;
-left:15%}
+  position: absolute;
+left:90%}
