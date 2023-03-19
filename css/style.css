@@ -183,7 +183,7 @@ main {
 .btn-buy-now {
   width: 200px;
 }
-.buynow-section .left-col {
+.buynow-section .left-col {style
   flex: 1;
   display: flex;
   flex-direction: column;
@@ -315,3 +315,6 @@ footer .nav-link {
   border-radius: 0.5rem;
   cursor: pointer;
 }
+.go-to-top{
+  position: relative;
+left:15%}
