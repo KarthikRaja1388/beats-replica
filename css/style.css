@@ -321,4 +321,5 @@ footer .nav-link {
 .go-to-top {
   position: absolute;
   left: 90%;
+  cursor:pointer;
 }
